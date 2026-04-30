@@ -16,7 +16,8 @@ Isometric View: <img width="741" height="479" alt="image" src="https://github.co
 
 # BOM (Inceptor: Base V1)
 **Link:**
-[Inceptor BOM V1.csv](https://github.com/user-attachments/files/27214246/Inceptor.BOM.V1.csv)
+[Inceptor BOM V1.csv](https://github.com/user-attachments/files/27224336/Inceptor.BOM.V1.csv)
+
 
 **Components, Total Price, and Quantity to Obtain**
 
@@ -45,4 +46,6 @@ M3x10 Grub Screw---------------$0.72-8
 
 Epoxy Resin Glue and Hardener-$6.78-1
 
-**Total (exclusive of shipping + taxes): *$142.29***
+FlySky FSi6/iA6 TX/RX------------$49.99
+
+**Total Upper-End (exclusive of shipping + taxes): *$192.28***
