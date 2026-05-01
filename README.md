@@ -22,10 +22,57 @@ The purpose of Inceptor is to allow users to purchase or build a modular aircraf
 5. Apply glue to long, flat side of VT-L and VT-R (part that touches VT-Block)
 6. Slide VT-L and VT-R onto the music wire and attach to VT-Block, referencing the CAD
 7. Slide both 550mm carbon fiber longerons onto VT-Block
+8. Connect servo wire extensions on both sides
 
 Result should look like this (wires not included):
 <img width="466" height="391" alt="image" src="https://github.com/user-attachments/assets/cd213c5e-9595-4a29-83c2-205412492d1d" />
 
+**Wings**
+1. Slide the far ends of each wing onto an indivudal 450mm carbon tube
+2. Slide on the wing sections meant to go in front of each aileron, attach with glue
+3. Insert a 180mm music wire section onto the far end wing pieces
+4. Insert servos into appropriae positions and run wires into rectangular section of each wing
+5. Ensure servos are in neutral position and connect servo horns
+6. Connect ailerons to each servo horn
+7. Attach servos' wing sections to currently assembled wing with glue, ensure aileron has music wire running through it
+8. Apply heated inserts to motor blocks, use grub screws to attach motors
+9. Slide motor blocks onto respective carbon spars, attach with glue and ensure wires run through to rectangular section
+10. Connect servo and motor wire extensions on both sides
+11. Result for left wing (so far) should look like this (wires not included):
+    <img width="1033" height="498" alt="image" src="https://github.com/user-attachments/assets/e9457524-a85e-43ba-8d25-5d7fb9c05969" />
+    
+12. Slide remaining sections and attach with glue, referencing the CAD and keeping wires available
+
+Result for right wing should look like this (wires not included):
+<img width="629" height="475" alt="image" src="https://github.com/user-attachments/assets/dba6b49e-8ddb-4950-9a19-e7215a210fc7" />
+
+**Fuselage**
+1. Apply heated inserts to all respective holes on both wing attachments, starting from the inside
+2. Slide on Payload Section Back to VT-Block, Payload Section Front, and Section 3, attach all to each other with glue
+3. Holding Core Section Front, Wing Rod Stops, and Battery Tray in their positions relative to one another, referencing the CAD, slide onto the rest of the fuselage
+4. Insert Arduino Mount's Bottom to its Top, and attach this assembly to the battery
+5. Place battery in Battery Tray and secure with velcro straps
+6. Add RX to Arduino Mount, and, optionally, add an Arduino
+7. Screw Section 3 and Core Section Front onto Wing Attachment, ensure assembly looks like this so far (wires not included):
+   <img width="843" height="583" alt="image" src="https://github.com/user-attachments/assets/bf8358c9-70a4-4e66-84c0-d1249da2b956" />
+
+8. Fit Nose Cone Adapter onto longerons and ensure snap fit cantilevers are in Wing Attachments, referencing CAD
+9. Fit Nose Cone onto longerons, attach to Nose Cone Adapter with glue
+10. Connect both motor wire extensions to ESCs, connect ESCs to battery's XT60 via a Y-harness
+11. Connect all servo wires to correct channel on RX, reference the Wiring Diagram
+12. Fully slide wings onto each Wing Attachment and into Wing Rod Stops
+13. Snap on Core Section Bottom, referencing the CAD, and attach with glue
+14. Snap on Core Section Top
+
+Result should look like this (wires and RX not included, Core Section Top made transparent):
+<img width="929" height="627" alt="image" src="https://github.com/user-attachments/assets/781f6baf-affe-43c9-902a-42eab8350f19" />
+
+# Wiring
+**Diagram:** <img width="855" height="558" alt="image" src="https://github.com/user-attachments/assets/018e4de9-997e-4d02-bbc4-b9b28847db1a" />
+
+Connect the servo extensions to all 4 servos. Connect the Female to Male 3-Phase Wire extensions to both motors' wires and to ESCs. Connect XT60 Y-Harness to ESCs and Battery. Disactivate BEC from Left Wing's ESC via disconnecting live wire, connect Right Wing ESC's signal wires to Left Wing ESC's via a Y-harness and connect to Channel 3. Connect VTail's left servo extension to Channel 4 and the right one to Channel 2. Connect Right Wing's servo wires to Left Wing's via connecting their extensions via Y-Harness and connecting to Channel 1. Set TX up for VTail configuration, and ensure all control surfaces and throttle work as intended, if not, simply reverse wire connection.
+
+*Note: A detailed video tutorial will be provided once and while I assemble my own Inceptor prototype, along with values for Center of Gravity, weight, and other performance characteristics*
 
 # OnShape CAD:
 **Link:** https://cad.onshape.com/documents/1e6ea4fb9d6a4182b08372fd/w/82ca669ecb5636d0f431f821/e/5a5b780a35879ddb0144018a?renderMode=0&uiState=69f1591a146152ce74d726e6
@@ -42,8 +89,7 @@ Isometric View: <img width="741" height="479" alt="image" src="https://github.co
 
 # BOM (Inceptor: Base V1)
 **Link:**
-[Inceptor BOM V1.csv](https://github.com/user-attachments/files/27224336/Inceptor.BOM.V1.csv)
-
+[Inceptor BOM (V1).csv](https://github.com/user-attachments/files/27287182/Inceptor.BOM.V1.csv)
 
 **Components, Total Price, and Quantity to Obtain**
 
@@ -72,6 +118,16 @@ M3x10 Grub Screw---------------$0.72-8
 
 Epoxy Resin Glue and Hardener-$6.78-1
 
-FlySky FSi6/iA6 TX/RX------------$49.99
+FlySky FSi6/iA6 TX/RX------------$49.99-1
 
-**Total Upper-End (exclusive of shipping + taxes): *$192.28***
+1.5mm Music Wire----------------$4.59-1
+
+Servo Wire Y-Harness------------$3.58-2
+
+500mm Servo Wire Extensions---$0.99-4
+
+Battery Velcro Strap---------------$0.99-1
+
+**Total Upper-End (exclusive of shipping + taxes): *$209.21***
+
+*Real pictures and videos coming soon, for your convenience!!!*
