@@ -89,10 +89,10 @@ Isometric View: <img width="741" height="479" alt="image" src="https://github.co
 
 # BOM (Inceptor: Base V1)
 **Link:**
-[Inceptor BOM (V1).csv](https://github.com/user-attachments/files/27287182/Inceptor.BOM.V1.csv)
+[BOM.csv](https://github.com/user-attachments/files/27289383/BOM.csv)
+
 
 **Components, Total Price, and Quantity to Obtain**
-
 
 CW A2212 Motor---------------$10.99-1
 
