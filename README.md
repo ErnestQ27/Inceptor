@@ -68,7 +68,8 @@ Result should look like this (wires and RX not included, Core Section Top made t
 <img width="929" height="627" alt="image" src="https://github.com/user-attachments/assets/781f6baf-affe-43c9-902a-42eab8350f19" />
 
 # Wiring
-**Diagram:** <img width="855" height="558" alt="image" src="https://github.com/user-attachments/assets/018e4de9-997e-4d02-bbc4-b9b28847db1a" />
+**Diagram:** <img width="4517" height="2620" alt="Drawing" src="https://github.com/user-attachments/assets/c2da9692-340d-48b7-8e21-c10b3b9207d4" />
+
 
 Connect the servo extensions to all 4 servos. Connect the Female to Male 3-Phase Wire extensions to both motors' wires and to ESCs. Connect XT60 Y-Harness to ESCs and Battery. Disactivate BEC from Left Wing's ESC via disconnecting live wire, connect Right Wing ESC's signal wires to Left Wing ESC's via a Y-harness and connect to Channel 3. Connect VTail's left servo extension to Channel 4 and the right one to Channel 2. Connect Right Wing's servo wires to Left Wing's via connecting their extensions via Y-Harness and connecting to Channel 1. Set TX up for VTail configuration, and ensure all control surfaces and throttle work as intended, if not, simply reverse wire connection.
 
