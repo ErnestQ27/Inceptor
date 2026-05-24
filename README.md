@@ -39,12 +39,14 @@ Result should look like this (wires not included):
 9. Attach motor blocks with motor onto respective carbon spars, attach with glue and ensure wires run through to rectangular section
 10. Connect servo and motor wire extensions on both sides
 11. Result for left wing (so far) should look like this (wires not included):
-    <img width="1033" height="498" alt="image" src="https://github.com/user-attachments/assets/e9457524-a85e-43ba-8d25-5d7fb9c05969" />
+    <img width="933" height="478" alt="image" src="https://github.com/user-attachments/assets/5a027fde-d00b-48bc-a810-557d5d333044" />
     
-12. Slide remaining sections and attach with glue, referencing the CAD and keeping wires available
+13. Slide remaining sections and attach with glue, referencing the CAD and keeping wires available
 
-Result for right wing should look like this (wires not included):
-<img width="933" height="478" alt="image" src="https://github.com/user-attachments/assets/54dc0a2c-b9a6-48da-82e4-e5819ae139f8" />
+Result for left wing should look like this (wires not included):
+<img width="720" height="305" alt="image" src="https://github.com/user-attachments/assets/6645f0cc-5cbd-4a7a-b9b6-c5486b6377cd" />
+
+
 
 **Fuselage**
 1. Apply heated inserts to all respective holes on both wing attachments, starting from the inside
