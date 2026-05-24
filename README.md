@@ -36,7 +36,7 @@ Result should look like this (wires not included):
 6. Connect ailerons to each servo horn
 7. Attach servos' wing sections to currently assembled wing with glue, ensure aileron has music wire running through it
 8. Apply heated inserts to motor blocks, use grub screws to attach motors
-9. Slide motor blocks onto respective carbon spars, attach with glue and ensure wires run through to rectangular section
+9. Attach motor blocks with motor onto respective carbon spars, attach with glue and ensure wires run through to rectangular section
 10. Connect servo and motor wire extensions on both sides
 11. Result for left wing (so far) should look like this (wires not included):
     <img width="1033" height="498" alt="image" src="https://github.com/user-attachments/assets/e9457524-a85e-43ba-8d25-5d7fb9c05969" />
