@@ -44,7 +44,7 @@ Result should look like this (wires not included):
 12. Slide remaining sections and attach with glue, referencing the CAD and keeping wires available
 
 Result for right wing should look like this (wires not included):
-<img width="629" height="475" alt="image" src="https://github.com/user-attachments/assets/dba6b49e-8ddb-4950-9a19-e7215a210fc7" />
+<img width="933" height="478" alt="image" src="https://github.com/user-attachments/assets/54dc0a2c-b9a6-48da-82e4-e5819ae139f8" />
 
 **Fuselage**
 1. Apply heated inserts to all respective holes on both wing attachments, starting from the inside
