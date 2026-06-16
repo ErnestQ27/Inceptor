@@ -52,19 +52,18 @@ Result for left wing should look like this (wires not included):
 1. Apply heated inserts to all respective holes on both wing attachments, starting from the inside
 2. Slide on Payload Section Back to VT-Block, Payload Section Front, and Section 3, attach all to each other with glue
 3. Holding Core Section Front, Wing Rod Stops, and Battery Tray in their positions relative to one another, referencing the CAD, slide onto the rest of the fuselage
-4. Insert Arduino Mount's Bottom to its Top, and attach this assembly to the battery
-5. Place battery in Battery Tray and secure with velcro straps
-6. Add RX to Arduino Mount, and, optionally, add an Arduino
-7. Screw Section 3 and Core Section Front onto Wing Attachment, ensure assembly looks like this so far (wires not included):
+4. Place battery in Battery Tray and secure with velcro straps
+5. Add RX to Arduino Mount, and, optionally, add an Arduino
+6. Screw Section 3 and Core Section Front onto Wing Attachment, ensure assembly looks like this so far (wires not included):
    <img width="843" height="583" alt="image" src="https://github.com/user-attachments/assets/bf8358c9-70a4-4e66-84c0-d1249da2b956" />
 
-8. Fit Nose Cone Adapter onto longerons and ensure snap fit cantilevers are in Wing Attachments, referencing CAD
-9. Fit Nose Cone onto longerons, attach to Nose Cone Adapter with glue
-10. Connect both motor wire extensions to ESCs, connect ESCs to battery's XT60 via a Y-harness
-11. Connect all servo wires to correct channel on RX, reference the Wiring Diagram
-12. Fully slide wings onto each Wing Attachment and into Wing Rod Stops
-13. Snap on Core Section Bottom, referencing the CAD, and attach with glue
-14. Snap on Core Section Top
+7. Fit Nose Cone Adapter onto longerons and ensure snap fit cantilevers are in Wing Attachments, referencing CAD
+8. Fit Nose Cone onto longerons, attach to Nose Cone Adapter with glue
+9. Connect both motor wire extensions to ESCs, connect ESCs to battery's XT60 via a Y-harness
+10. Connect all servo wires to correct channel on RX, reference the Wiring Diagram
+11. Fully slide wings onto each Wing Attachment and into Wing Rod Stops
+12. Snap on Core Section Bottom, referencing the CAD, and attach with glue
+13. Snap on Core Section Top
 
 Result should look like this (wires and RX not included, Core Section Top made transparent):
 <img width="929" height="627" alt="image" src="https://github.com/user-attachments/assets/781f6baf-affe-43c9-902a-42eab8350f19" />
