@@ -104,8 +104,6 @@ CCW A2212 Motor--------------$10.99-1
 
 4S Battery-----------------------$26.99-1
 
-Arduino (Optional)-------------$27.99-1
-
 MG90S Servo--------------------$9.98-4
 
 CC/CCW 9045 Propellers--------$2.99--1       
@@ -132,7 +130,7 @@ Servo Wire Y-Harness------------$3.58-2
 
 Battery Velcro Strap---------------$0.99-1
 
-**Total Upper-End (exclusive of shipping + taxes): *$209.21***
+**Total Upper-End (exclusive of shipping + taxes): *$181.22***
 
 # Zine Page
 <img width="2820" height="4000" alt="INCEPTOR (5 83 x 8 27 in)" src="https://github.com/user-attachments/assets/bbd102a0-8df9-41b3-8e6e-55d3327dcf19" />
