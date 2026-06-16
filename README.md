@@ -55,7 +55,8 @@ Result for left wing should look like this (wires not included):
 4. Place battery in Battery Tray and secure with velcro straps
 5. Add RX to Arduino Mount, and, optionally, add an Arduino
 6. Screw Section 3 and Core Section Front onto Wing Attachment, ensure assembly looks like this so far (wires not included):
-   <img width="843" height="583" alt="image" src="https://github.com/user-attachments/assets/bf8358c9-70a4-4e66-84c0-d1249da2b956" />
+   <img width="548" height="342" alt="image" src="https://github.com/user-attachments/assets/8675a9a8-8653-4d0b-9ad0-738a2468e756" />
+
 
 7. Fit Nose Cone Adapter onto longerons and ensure snap fit cantilevers are in Wing Attachments, referencing CAD
 8. Fit Nose Cone onto longerons, attach to Nose Cone Adapter with glue
@@ -66,7 +67,8 @@ Result for left wing should look like this (wires not included):
 13. Snap on Core Section Top
 
 Result should look like this (wires and RX not included, Core Section Top made transparent):
-<img width="929" height="627" alt="image" src="https://github.com/user-attachments/assets/781f6baf-affe-43c9-902a-42eab8350f19" />
+<img width="724" height="559" alt="image" src="https://github.com/user-attachments/assets/7e183357-75dd-4231-8c50-37bd9ccba66f" />
+
 
 # Wiring
 **Diagram:** <img width="4517" height="2620" alt="Drawing" src="https://github.com/user-attachments/assets/c2da9692-340d-48b7-8e21-c10b3b9207d4" />
