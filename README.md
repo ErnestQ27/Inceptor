@@ -136,7 +136,7 @@ Battery Velcro Strap---------------$0.99-1
 **Total Upper-End (exclusive of shipping + taxes): *$181.22***
 
 # Zine Page
-<img width="1410" height="2000" alt="INCEPTOR (5 83 x 8 27 in)" src="https://github.com/user-attachments/assets/bbd102a0-8df9-41b3-8e6e-55d3327dcf19" />
+<img width="705" height="1000" alt="INCEPTOR (5 83 x 8 27 in)" src="https://github.com/user-attachments/assets/bbd102a0-8df9-41b3-8e6e-55d3327dcf19" />
 
 
 *Real pictures and videos coming soon, for your convenience!!!*
