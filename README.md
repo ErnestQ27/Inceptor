@@ -3,6 +3,9 @@ An RC, modular, fixed-wing, dual-motor, 3D-printable aircraft capable of several
 
 The purpose of Inceptor is to allow users to purchase or build a modular aircraft and customize components tailored to their needs. Inceptor: Base V1 provides users with the ability to have a core, functioning unit intended to demonstrate modular ability in swapping batteries, ESCs, Flight Computer programs, and motors. Later version upgrades will allow users to instead print out different wings, a different tail, a different nose, different payload bay size, etc.
 
+<img width="500" height="366" alt="image" src="https://github.com/user-attachments/assets/22557eb3-82e9-4519-9e9d-dea80eb84154" />
+
+
 *Note that in future upgrades, you will be able to have a choice between which of each section's variation you would like to have (e.g, a longer variation of LW and RW).*
 
 # Assembly for Inceptor: Base V1
